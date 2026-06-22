@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Real-World+AI+Systems+%F0%9F%A4%96;B.Tech+CSE+%E2%80%94+AI+%26+ML+%40+LPU+%F0%9F%9A%80;Full+Stack+%7C+Python+%7C+Django+%7C+React;From+Leaf+Images+to+Live+Apps+%F0%9F%93%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Real-World+AI+Systems+%F0%9F%A4%96;B.Tech+CSE+%E2%80%94+AI+%26+ML+%40+LPU+%F0%9F%9A%80;Full+Stack+%7C+Python+%7C+Django+%7C+React)](https://git.io/typing-svg)
 
 <br/>
 
@@ -47,16 +47,6 @@ I work across the full stack — **Python, Django, FastAPI, React, TypeScript** 
 | Lovely Professional University, Punjab | B.Tech — CSE (AI & ML) | CGPA: **8.03** | 2023 – Present |
 | Tirumala Junior College, Bhimavaram | Intermediate (MPC) | **95.4%** | 2021 – 2023 |
 | Sri Chaitanya Techno High School, Hyderabad | Matriculation (10th) | CGPA: **10.0** | 2020 – 2021 |
-
----
-
-## 💼 Experience
-
-**🌱 AI & ML Intern — AICTE – Edunet Foundation** *(Dec 2025 – Jan 2026)*
-
-- Built a **Crop Disease Prediction system** using **Python, TensorFlow, and Scikit-learn** to classify plant diseases from leaf images
-- Developed a complete ML pipeline — data preprocessing, feature extraction, model training, and performance evaluation
-- Applied core ML concepts (supervised learning, model training, evaluation) on real-world datasets through structured industry sessions
 
 ---
 
