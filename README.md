@@ -30,7 +30,6 @@ I scored a perfect **10.0 CGPA** in 10th and **95.4%** in my Intermediate (MPC) 
 
 Since joining LPU in 2023, I've been shipping beyond the classroom:
 
-- 🌱 Completed an **AI & ML Internship at AICTE – Edunet Foundation** (Dec 2025 – Jan 2026), where I built a **Crop Disease Prediction system** with TensorFlow + Scikit-learn to classify plant diseases from leaf images
 - 🏫 Built **CampusOne** — a live, full-stack Django campus platform with **OpenCV LBPH face-recognition attendance**, role-based access for 4 user types, and a PostgreSQL production database on Render
 - 🎯 Built an **Elective Recommendation System** (React + TypeScript) suggesting from **100+ courses** with seat-tracking and admin approval workflows
 - 📜 Earned the **Oracle OCI AI Foundations** and **Mendix Rapid Developer** certifications
