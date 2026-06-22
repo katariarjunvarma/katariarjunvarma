@@ -36,8 +36,6 @@ Since joining LPU in 2023, I've been shipping beyond the classroom:
 
 I work across the full stack — **Python, Django, FastAPI, React, TypeScript** — and on the ML side with **TensorFlow, Scikit-learn, and OpenCV**. I care about systems that are reliable, deployed, and understood end to end.
 
-> 💡 *"From a coastal town in Andhra to Punjab — building software that actually ships."*
-
 ---
 
 ## 🎓 Education
